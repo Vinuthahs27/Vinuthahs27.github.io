@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinutha H S - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Vinutha H S</h1>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#internships">Internships</a></li>
+                <li><a href="#certificates">Certificates</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Curious and analytical, with a strong foundation in data analysis, programming, and automation. A 2025 graduate from APS College of Engineering, excited about turning data into insights for smarter decisions.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li><strong>Programming Languages:</strong> C, C++, Java, Python, SQL, HTML</li>
+            <li><strong>Data Analysis & Visualization:</strong> Power BI, Data Analytics, Excel</li>
+            <li><strong>Database Management:</strong> SQL, DBMS</li>
+            <li><strong>Automation Testing:</strong> Selenium WebDriver, Test Case Design</li>
+            <li><strong>Machine Learning & NLP:</strong> Python ML Libraries, NLP</li>
+            <li><strong>Tools:</strong> VS Code, Eclipse, PyCharm, MS Office</li>
+            <li><strong>Soft Skills:</strong> Communication, Logical Reasoning</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>B.E. in ISE</strong> – APS College of Engineering (2025) | CGPA: 7.50</li>
+            <li><strong>PUC (PCMCs)</strong> – Jyothi KV Composite PU College (2021) | 66.16%</li>
+            <li><strong>SSLC</strong> – Yashasvi International School (2019) | 68.16%</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>COVID Management System:</strong> SQL, Database Management</li>
+            <li><strong>Automation Testing for Twitter:</strong> Selenium WebDriver, Python</li>
+            <li><strong>Sentiment Analysis for Kannada Language:</strong> NLP, Python</li>
+            <li><strong>Smart Waste Management System:</strong> AIoT, Raspberry Pi, IoT Sensors</li>
+            <li><strong>Automated Student Attendance System:</strong> Python, OpenCV, Face Recognition</li>
+        </ul>
+    </section>
+
+    <section id="internships">
+        <h2>Internships</h2>
+        <ul>
+            <li>AIoT Internship – Xtrans Solutions (Smart Waste Management System)</li>
+            <li>Advanced Data Analytics – E-commerce Sales Analysis using Power BI</li>
+            <li>Hands-on Python in ML – Webinar</li>
+            <li>Personality Development & Communication Skills, Aptitude, and Java Programming</li>
+        </ul>
+    </section>
+
+    <section id="certificates">
+        <h2>Certificates</h2>
+        <ul>
+            <li>KiCad Software Technical Training</li>
+            <li>Good First Bug Workshop</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:vinuthav812@gmail.com">vinuthav812@gmail.com</a></p>
+        <p>Phone: 6361743033</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/vinuthahs" target="_blank">linkedin.com/in/vinuthahs</a></p>
+        <p>Location: Bengaluru, India</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Vinutha H S</p>
+    </footer>
+</body>
+</html>
